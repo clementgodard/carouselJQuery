@@ -1,0 +1,32 @@
+div
+{
+    height : 100%;
+}
+
+ul
+{
+    list-style-type : none;
+}
+
+button
+{
+    position : absolute;
+    top : 50vh;
+}
+
+#next
+{
+    right : 5%;
+}
+
+#previous
+{
+    left : 5%;
+}
+
+#carousel img
+{
+   margin : 0 auto;
+   width : 70%;
+   height : auto;
+}
